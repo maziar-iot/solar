@@ -1,0 +1,7 @@
+pandas
+numpy
+earthengine-api
+folium
+ipyleaflet
+ipywidgets
+voila
